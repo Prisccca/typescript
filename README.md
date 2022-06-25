@@ -1,0 +1,1 @@
+# Curso de Typescript - Hora de Codar anotações e principais aspectos
